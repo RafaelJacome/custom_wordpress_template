@@ -1,0 +1,11 @@
+{
+  "css": [
+    "bower_components/fancybox/source/jquery.fancybox.css",
+    "src/sass/**/*.scss"
+  ],
+  "js": [
+    "bower_components/jquery/dist/jquery.js",
+    "bower_components/fancybox/source/jquery.fancybox.js",
+    "src/js/**/*.js"
+  ]
+}
